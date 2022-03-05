@@ -1,0 +1,16 @@
+# Installing Project Steps
+
+1. npm init -y
+2. npm i ws   
+3. npm i -s express
+4. npm i -g nodemon
+5. npm install ejs
+
+# Start The Server
+
+$ nodemon server.js
+
+# AccessClient Urls
+
+1. http://localhost:3000
+2. http://localhost:3000/client

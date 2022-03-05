@@ -1,0 +1,41 @@
+.navbar {
+    background-color: #035275 !important;
+    
+}
+.logo {
+    color: #fff !important;
+}
+
+.list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.list img {
+    position: absolute;
+}
+.list div {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 38px;
+}
+.dropdown-style {
+    overflow: overlay;
+    width: 227px;
+    max-height: 400px;
+}
+#message {
+    color: red;
+    font-size: 12px;
+    font-weight: bold;
+    position: absolute;
+    top: 73px;
+}
+.labelTxt {
+    color: #bdbcb8;
+}
+#_alert {
+    display: none;
+}
