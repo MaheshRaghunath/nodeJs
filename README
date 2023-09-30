@@ -6,11 +6,11 @@
 4. npm i -g nodemon
 5. npm install ejs
 
-# Start The Server
+#Start The Server
 
-$ nodemon server.js
+$nodemon server.js
 
-# AccessClient Urls
+#AccessClient Urls
 
 1. http://localhost:3000
 2. http://localhost:3000/client
